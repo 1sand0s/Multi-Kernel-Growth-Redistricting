@@ -1,4 +1,5 @@
 # Multi-Kernel-Growth-Redistricting
+![GitHub](https://img.shields.io/github/license/1sand0s/Multi-Kernel-Growth-Redistricting)
 Multi-Kernel Growth strategy based technique for fair redistricting
  
 
