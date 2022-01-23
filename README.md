@@ -1,5 +1,6 @@
 # Multi-Kernel-Growth-Redistricting
 ![GitHub](https://img.shields.io/github/license/1sand0s/Multi-Kernel-Growth-Redistricting)
+
 Multi-Kernel Growth strategy based technique for fair redistricting
  
 
@@ -26,3 +27,20 @@ Multi-Kernel Growth strategy based technique for fair redistricting
     `cd` into the `src` directory of `Multi-Kernel-Growth-Redistricting` and run `make` 
 
 
+<h2>Running</h2>
+
+
+1. <h4>How to run:</h4>
+
+   run `./main us-county-boundaries.json tx_county_population.csv us-colleges-and-universities.json 36 1`
+
+
+2. <h4>Argument definitions:</h4>
+
+   2.1. County Borders
+   2.2. Population per County
+   2.3. Number of universities per County
+   2.4. Number of Congressional Districts
+   2.5. Gerrymandering on/off
+
+   All data used are obtained from : https://public.opendatasoft.com/explore/dataset/
